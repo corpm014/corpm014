@@ -1,4 +1,4 @@
-### Hi I'm Marc 👋🏽
+### Hi I'm Marc :wave:
 - 🌱 I’m currently learning python 3
 - 🔭 I’m currently working on a 'Small-multiplayer-game'
 - 🤔 I’m looking for help with API's and html
