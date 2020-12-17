@@ -1,4 +1,4 @@
-### Hi I'm Marc :waving_hand_medium_skin_tone:
+### Hi I'm Marc :)
 - 🌱 I’m currently learning python 3
 - 🔭 I’m currently working on a 'Small-multiplayer-game'
 - 🤔 I’m looking for help with API's and html
