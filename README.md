@@ -1,5 +1,5 @@
 ### Hi I'm Marc :)
-- 🌱 I’m currently learning python 3
+- 🌱 I’m currently learning python 3, some java
 - 🔭 I’m currently working on databases and sqlite3
 - 🤔 I’m looking for help with API's and html
 
