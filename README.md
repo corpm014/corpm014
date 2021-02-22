@@ -1,7 +1,11 @@
-### Hi I'm Marc :)
+# Hi I'm Marc :)
 - 🌱 I’m currently learning python 3, some java
 - 🔭 I’m currently working on databases and sqlite3
 - 🤔 I’m looking for help with API's and html
+
+## Big thanks to...
+[BenTheDev](https://github.com/BenNeighbour), for teaching me some stuff
+
 
 
 
