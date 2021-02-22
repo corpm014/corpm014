@@ -1,11 +1,24 @@
-# Hi I'm Marc :)
-- 🌱 I’m currently learning python 3, some java
-- 🔭 I’m currently working on databases and sqlite3
-- 🤔 I’m looking for help with API's and html
+# Hi I'm Marc :computer:
 
-## Big thanks to...
-[BenTheDev](https://github.com/BenNeighbour), for teaching me some stuff
+## Java or Python?
+☕
+```java
+public Class Main{
+    public static Void Main{String[] args){
+        System.out.println("Java is the best");
+    }
+}
+```
+or
+:snake:
+```python
+print("Python is the best")
+```
 
+## I give thanks to and support...
+* Bullet list[BenTheDev](https://github.com/BenNeighbour), for teaching me some stuff
+* Bullet list[leoof](https://github.com/leoof), for getting me into Github
+st
 
 
 
@@ -14,7 +27,7 @@
 
 
 
-- 🌱 I’m currently learning python 3
+- 🌱 I’m currently learning py
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
