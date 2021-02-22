@@ -8,7 +8,7 @@
 ☕
 ```java
 public Class Main{
-    public static Void Main(String[] args){
+    public static void main(String[] args){
         System.out.println("Java is the best");
     }
 }
