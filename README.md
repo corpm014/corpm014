@@ -18,7 +18,6 @@ print("Python is the best")
 ## I give thanks to and support...
 * [BenTheDev](https://github.com/BenNeighbour), for teaching me some stuff
 * [leoof](https://github.com/leoof), for getting me into Github
-st
 
 
 
