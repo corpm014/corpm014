@@ -1,5 +1,4 @@
 ### Hi I'm Marc :)
-[![corpm014's github stats](https://github-readme-stats.vercel.app/api?username=corpm014)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning python 3, some java
 - 🔭 I’m currently working on databases and sqlite3
 - 🤔 I’m looking for help with API's and html
@@ -18,3 +17,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![corpm014's github stats](https://github-readme-stats.vercel.app/api?username=corpm014)](https://github.com/anuraghazra/github-readme-stats)
