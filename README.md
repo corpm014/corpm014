@@ -1,12 +1,17 @@
-# Hi I'm Marc :computer:
+<h1 align="center">Hi 👋, I'm Marc</h1>
+<h3 align="center">Python software dev; Java wanna be</h3>
 
-## My Tools :hammer:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/marc_no.2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marc_no.2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/corpm014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="corpm014" height="30" width="40" /></a>
+</p>
 
-### Languages
-<img src="https://www.pinclipart.com/picdir/big/55-552426_python-sticker-png-clipart.png" width="48"><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48"><img src="https://s3-eu-west-1.amazonaws.com/qt-showroom/uploads/2014/08/qml_creator_icon512-300x300.png" width="48"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qt_logo_2013.svg" width="35">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### Packages And Modules
-<img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="35"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" width="120"><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width="48"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" width="48"><img src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=corpm014&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="corpm014" /></p>
+
 
 ## Go Check Out
 * [BenTheDev](https://github.com/BenNeighbour)
