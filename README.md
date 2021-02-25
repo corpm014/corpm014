@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A Programming student</h3>
 
+## I'm currently listening to
+[![Spotify](https://novatorem-self-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/MWHOPPERLXP)
+
 ## My Toolbox
 #### Languages and Pacakages
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -19,6 +22,9 @@
 
 #### Generic
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<br />
+<br />
 
 ## Go Check Out
 * [BenTheDev](https://github.com/BenNeighbour)
