@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marc</h1>
 <h3 align="center">A Programming student</h3>
 
 ## I'm currently listening to
@@ -27,3 +27,8 @@
 * [BenTheDev](https://github.com/BenNeighbour)
 * [leoof](https://github.com/leoof)
 * [TheXichao](https://github.com/TheXichao)
+
+
+#### Sources used for ReadMe
+* [Generator](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdVLW5qclJsWUduWXA5NUYzY2ZPSkszcjliQXxBQ3Jtc0ttWi1hNXhIYURaRFdIMG5sZnFGNVVVSWhrcDlnWVlHend0eWVILWxwem94UEFVTnItRzJlMWpoVnFlMjRwYVc3cUhwRWFTQnMxRmZjNENzZHFtS0pHNzFjbzhfdHVnMW00S0ppSHI3d0hQNnJyZWRfTQ&q=https%3A%2F%2Fgithub.com%2Frahuldkjain%2Fgithub-profile-readme-generator)
+* [Badges](https://github.com/corpm014/markdown-badges)
