@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marc</h1>
-<h3 align="center">A Programming student</h3>
+<h3 align="center">I'm a Student</h3>
 
 ## I'm currently listening to
 [![Spotify](https://novatorem-self-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/MWHOPPERLXP)
